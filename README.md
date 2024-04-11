@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Amazon AWS,Microsoft Azure and Python
 - 💞️ I’m looking to collaborate to learn with Developers and Solution Architect pathway..
 - 📫 How to reach me thens.btech@gmail.com
-- 😄 Pronouns: Then.na.ra.san ~~If this is still hard, you can choose Short Name "Thenn" :-)
+- 😄 Pronouns: He/Him - How to Pronouns my first name... Then.na.ra.san ~~If this is still hard, you can choose Short Name "Thenn" :-)
 - ⚡ Fun fact: ...
 
 <!---
